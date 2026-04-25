@@ -1,8 +1,7 @@
 # 🌱 FarmNeat – Smart Fresh Food & Farming Platform
-
+# React + Vite
 FarmNeat is an AI-powered web application that allows users to order fresh vegetables, fruits, coconut water, and fruit juices directly from farms.
 The platform also provides smart farming support such as soil monitoring and crop recommendations based on location and soil type.
-
 ## 🚀 Features
 
 ### 🛒 Online Ordering System
